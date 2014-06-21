@@ -1,6 +1,7 @@
 YouTubeDemo for Android
 ===========
 An example code how to use an embedded YouTube Demo Video using [android-youtube-player][1]
+
 For more information please see [blog post][2]
 
 License
